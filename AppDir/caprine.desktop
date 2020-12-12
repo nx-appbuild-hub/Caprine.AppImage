@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Caprine
+Exec=AppRun
+Terminal=false
+Type=Application
+Icon=caprine
+StartupWMClass=Caprine
+X-AppImage-Version=2.47.0.1864
+Comment=Caprine is an unofficial and privacy focused Facebook Messenger app with many useful features.
+Categories=Network;Chat;
